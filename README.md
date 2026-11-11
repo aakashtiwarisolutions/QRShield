@@ -4,7 +4,7 @@ QRShield checks the link inside a QR code before you open it. It reads the code 
 
 **Author:** Aakash Tiwari, M.S. Cybersecurity, Rowan University
 
-Full project report: [docs/QRShield_Project_Report.docx](docs/QRShield_Project_Report.docx)
+Full project report: [QRShield_Project_Report.docx](QRShield_Project_Report.docx)
 
 ## Why
 
