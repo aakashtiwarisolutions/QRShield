@@ -3,6 +3,7 @@
 QRShield checks the link inside a QR code before you open it. It reads the code with a laptop webcam or a phone camera, analyses the web address with machine learning and simple safety rules, and shows **SAFE**, **CAUTION** or **PHISHING** with the main reasons. The link itself is never visited.
 
 **Author:** Aakash Tiwari, M.S. Cybersecurity, Rowan University
+
 Full project report: [docs/QRShield_Project_Report.docx](docs/QRShield_Project_Report.docx)
 
 ## Why
